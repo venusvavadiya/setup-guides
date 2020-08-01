@@ -2,6 +2,8 @@
   <img src="../assets/ubuntu.png" width="200">
 </p>
 
+## Essentials
+
 #### Update Packages
 ```bash
 sudo apt -y update
@@ -14,6 +16,8 @@ sudo apt -y install git
 git config --global user.name "Venus Vavadiya"
 git config --global user.email "thisisvenusvavadiya@gmail.com"
 ```
+
+## Languages
 
 #### Install Node
 ```bash
@@ -28,6 +32,8 @@ bash ~/miniconda.sh -b -p $HOME/miniconda
 ~/miniconda/bin/conda shell.bash
 conda init
 ```
+
+## Databases
 
 #### Install MongoDB
 ```bash
