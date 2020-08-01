@@ -1,4 +1,8 @@
-# Ubuntu
+<p align="center">
+  <img src="../assets/ubuntu.png" width="200">
+</p>
+
+---
 
 **Update**
 ```bash
@@ -17,7 +21,7 @@ git config --global user.email "thisisvenusvavadiya@gmail.com"
 
 **Node**
 ```bash
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 nvm install node
 ```
 ---
