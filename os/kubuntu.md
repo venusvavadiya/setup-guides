@@ -1,13 +1,13 @@
 # Kubuntu
 
-### Update packages.
+Update packages.
 
 ```bash
 sudo apt -y update
 sudo apt -y upgrade
 ```
 
-### Setup git.
+Setup git.
 
 ```bash
 sudo apt install git -y
