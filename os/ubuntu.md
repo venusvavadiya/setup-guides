@@ -15,7 +15,7 @@ git config --global user.name "Venus Vavadiya"
 git config --global user.email "thisisvenusvavadiya@gmail.com"
 ```
 
-### Install Node
+#### Install Node
 ```bash
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 nvm install node
