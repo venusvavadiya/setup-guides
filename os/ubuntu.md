@@ -59,8 +59,11 @@ sudo systemctl enable mysql
 ```
 
 ---
-# TODO
 
-[] Install MongoDB Compass
-[] Install Mysql Workbench
-[] Install Visual Studio Code
+#### TODO
+- [x] Install MongoDB
+- [ ] Install MongoDB Compass
+- [x] Install MySQL
+- [ ] Install MySQL Workbench
+- [ ] Install Visual Studio Code
+- [ ] Install Postman
