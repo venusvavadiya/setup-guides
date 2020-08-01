@@ -11,11 +11,22 @@ sudo apt -y upgrade
 ```
 
 #### Install Git
+
+I am using my details.
 ```bash
 sudo apt -y install git
 git config --global user.name "Venus Vavadiya"
 git config --global user.email "thisisvenusvavadiya@gmail.com"
 ```
+
+Generate and copy SSH Key.
+```bash
+cat /dev/zero | ssh-keygen -q -N "" > /dev/null
+sudo apt -y install xsel
+cat  ~/.ssh/id_rsa.pub | xsel -i -b
+```
+
+Add it to GitHub. https://github.com/settings/keys
 
 ## Languages
 
@@ -46,3 +57,10 @@ sudo systemctl enable mongodb
 sudo apt -y install mysql-server
 sudo systemctl enable mysql
 ```
+
+---
+# TODO
+
+[] Install MongoDB Compass
+[] Install Mysql Workbench
+[] Install Visual Studio Code
