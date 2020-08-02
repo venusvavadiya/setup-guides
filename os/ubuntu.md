@@ -44,6 +44,8 @@ bash ~/miniconda.sh -b -p $HOME/miniconda
 conda init
 ```
 
+---
+
 ## Databases
 
 #### Install MongoDB
@@ -58,6 +60,14 @@ sudo apt -y install mysql-server
 sudo systemctl enable mysql
 ```
 
+---
+
+## Fixes
+
+#### Watchers
+```bash
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+```
 ---
 
 #### TODO
