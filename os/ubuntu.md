@@ -80,6 +80,6 @@ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo s
 - [x] Install MongoDB
 - [ ] Install MongoDB Compass
 - [x] Install MySQL
-- [ ] Install MySQL Workbench
+- [x] Install MySQL Workbench
 - [ ] Install Visual Studio Code
 - [ ] Install Postman
