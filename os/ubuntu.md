@@ -60,6 +60,12 @@ sudo apt -y install mysql-server
 sudo systemctl enable mysql
 ```
 
+#### Install MySQL Workbench
+```bash
+sudo apt -y install gnome-keyring
+sudo apt -y install mysql-workbench
+```
+
 ---
 
 ## Fixes
