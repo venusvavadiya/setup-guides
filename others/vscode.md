@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/vscode.png" width="200">
+  <img src="../assets/vscode.png" height="100">
 </p>
 
 ```json
