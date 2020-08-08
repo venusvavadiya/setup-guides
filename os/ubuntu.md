@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/ubuntu.png" width="200">
+  <img src="../assets/ubuntu.png" height="100">
 </p>
 
 ## Essentials
