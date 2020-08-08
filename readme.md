@@ -6,4 +6,4 @@
 
 ### Others
 
--[VSCode](others/vscode.md)
+- [VSCode](others/vscode.md)
