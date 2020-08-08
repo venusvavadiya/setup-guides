@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/vscode.png" width="200">
+</p>
+
 ```json
 {
     "window.menuBarVisibility": "toggle",
