@@ -59,12 +59,6 @@ sudo apt -y install mysql-server
 sudo systemctl enable mysql
 ```
 
-#### Install MySQL Workbench
-```bash
-sudo apt -y install gnome-keyring
-sudo apt -y install mysql-workbench
-```
-
 ---
 
 ## Fixes
@@ -79,6 +73,6 @@ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo s
 - [x] Install MongoDB
 - [ ] Install MongoDB Compass
 - [x] Install MySQL
-- [x] Install MySQL Workbench
+- [ ] Install MySQL Workbench
 - [ ] Install Visual Studio Code
 - [ ] Install Postman
