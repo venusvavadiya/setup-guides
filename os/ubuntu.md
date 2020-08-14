@@ -57,6 +57,7 @@ sudo systemctl enable mongodb
 ```bash
 sudo apt -y install mysql-server
 sudo systemctl enable mysql
+sudo apt -y install libmysqlclient-dev
 ```
 
 ---
