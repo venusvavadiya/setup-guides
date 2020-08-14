@@ -10,6 +10,11 @@ sudo apt -y update
 sudo apt -y upgrade
 ```
 
+#### Build Essentials
+```bash
+sudo apt -y install build-essential
+```
+
 #### Install Git
 
 I am using my details.
